@@ -1,5 +1,5 @@
 ### Project Name
-Data Intake and Governace (Surveys and Applicactions)
+Data Intake and Governace (Surveys and Applicactions).
 How do you manage survey, applications, and other intake data?  Help us document best practices!
 
 ### Project Team
@@ -7,15 +7,15 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * Team Leader(s): Samantha Shain
 * GitHub Scribe(s): Megan Pietruszka
 * List of all Contributors: 
-Jen Higgins
-Nicole Smith
-Alexa Adams
-Deanne Walters
-Melissa Hill Dees
-Angela Adams
-Dar Veverka
-Michael Kolodner
-Clayton Goss
+Jen Higgins, 
+Nicole Smith, 
+Alexa Adams, 
+Deanne Walters, 
+Melissa Hill Dees, 
+Angela Adams, 
+Dar Veverka, 
+Michael Kolodner, 
+Clayton Goss, 
 Amy Bucciferro
 
 ### Project Vision (Your first task as a team)
