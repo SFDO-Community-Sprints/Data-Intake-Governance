@@ -21,7 +21,7 @@ Clayton Goss,
 Amy Bucciferro
 
 Virtual Sprint Team:
-    * [Deanne Walters](https://github.com/DatabaseDeanne)
+[Deanne Walters](https://github.com/DatabaseDeanne)
 
 ### Project Vision (Your first task as a team)
 
