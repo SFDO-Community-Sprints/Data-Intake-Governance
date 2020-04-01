@@ -27,9 +27,12 @@ Join us at this Google Doc:  https://docs.google.com/document/d/1iqR0LYNrVs5MZ7b
 Please add yourself as a collaborator!
 
 ### Project Team Accomplishments
-We have come up with various draft data models with pros and cons. We have also built out what a key questions that an admin should be asking before implemetning a data model.
+Philly Sprint: We have come up with various draft data models with pros and cons. We have also built out what a key questions that an admin should be asking before implemetning a data model.
+
+Virtual Sprint: A documentation draft has been finished (starting on page 14 of the google doc). This includes an overview of the data intake architecture areas (with different options you can do in each area), a deep dive into explain what the different data intake architecture areas options are, and a case study of an admin who utilizes different data architectures depending on the department need.
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
+Philly Sprint:
 We want to finalize the wording of the key questions section. We also want to finalize the data models.
 
 Then we would like to have the information published on the Power of Hub as a best practice.
