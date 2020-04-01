@@ -4,6 +4,8 @@ How do you manage survey, applications, and other intake data?  Help us document
 
 ### Project Team
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
+
+Philly Sprint Team:
 * Team Leader(s): Samantha Shain
 * GitHub Scribe(s): Megan Pietruszka
 * List of all Contributors: 
@@ -17,6 +19,9 @@ Dar Veverka,
 Michael Kolodner, 
 Clayton Goss, 
 Amy Bucciferro
+
+Virtual Sprint Team:
+    * [Deanne Walters](https://github.com/DatabaseDeanne)
 
 ### Project Vision (Your first task as a team)
 
