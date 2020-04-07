@@ -6,7 +6,7 @@ How do you manage survey, applications, and other intake data?  Help us document
 The goal of this project is to create documentation on best practices around data intake.
 
 ### Project Vertical
-The audience for this project is for admin in any organization who deals with data intake.
+The audience for this project is for admins in any organization who deals with data intake.
 
 ### Hub Group Link
 We encourage you to bring this project conversation to the Power of us Hub! Please include a link to your Hub group here so others can find you and continue the conversation later.
