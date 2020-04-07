@@ -9,8 +9,7 @@ The goal of this project is to create documentation on best practices around dat
 The audience for this project is for admins in any organization who deals with data intake.
 
 ### Hub Group Link
-__Join us on the Hub!__(https://powerofus.force.com/s/group/0F91E000000bs88SAA/data-intake-governance)We encourage you to bring this project conversation to the Power of us Hub! Please include a link to your Hub group here so others can find you and continue the conversation later.
-
+Join us on the Hub!(https://powerofus.force.com/s/group/0F91E000000bs88SAA/data-intake-governance)
 ### Current Project Team
 
 Full Name          | Team Role         | Github Username                                       | Sprint(s)
