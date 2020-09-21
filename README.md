@@ -49,6 +49,8 @@ Philly Sprint 2019: We have come up with various draft data models with pros and
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 
+Create an Entity Relationship Diagram for some of the most common options.
+
 March Virtual Sprint 2020: We need to review/edit the documentation with a focus on the following areas: make sure we are covering all of the key points, make sure it is understandable for people at all levels, and make sure it has a consistent tone and structure. Then we would like to have the information published on the Power of Hub as a best practice.
 
 Philly Sprint 2019: We want to finalize the wording of the key questions section. We also want to finalize the data models. (Need to re-evalutate if this is still needed.)
